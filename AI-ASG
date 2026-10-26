@@ -1,0 +1,2 @@
+security and governance layer for AI agents that touch data.
+A transparent proxy/gateway that speaks MCP on both sides (agent-facing server, upstream-facing client), evaluates each tools/call request against a declarative policy, and then allows, denies, or pauses for approval.
